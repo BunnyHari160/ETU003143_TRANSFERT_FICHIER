@@ -1,0 +1,4 @@
+iexpliquena anle demarche atao : 
+-miconfigurer anle path ao am conf
+-mirun anle serveurMaitre
+-mrun anle filechooserui
